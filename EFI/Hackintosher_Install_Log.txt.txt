@@ -1,0 +1,24 @@
+
+Installer version: v2.5k r5103 EFI bootloader
+======================================================
+
+Created @ hackintosher.com 
+
+Updated to Catalina 10.15.2 Build 19C57
+
+======================================================
+=================== Hackintosher.com =================
+======================================================
+
+Catalina Guides
+
+https://hackintosher.com/guides/guide-to-fresh-installing-macos-catalina-on-a-hackintosh/
+
+https://hackintosher.com/guides/updating-hackintosh-catalina-10-15/
+
+https://hackintosher.com/guides/hackintosh-catalina-10-15-2-update-guide/
+
+Catalina Builds
+
+https://hackintosher.com/builds/asus-prime-z390-hackintosh-build-guide-w-rx-5700-xt/
+https://hackintosher.com/builds/gigabyte-z390-aorus-ultra-i7-9700k-vega-64-hackintosh-build-guide/
